@@ -26,5 +26,5 @@ A backend was developed using the Spring Boot framework and packaged in a Docker
 * git clone https://github.com/jpg2013/SelectionProcess.git
 * cd SelectionProcessTest/
 * mvn clean package install
-* docker-compose up  -d
+* docker-compose up -d
 * open your browser and go to https://localhost:8080/api/v1
