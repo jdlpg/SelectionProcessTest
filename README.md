@@ -18,12 +18,12 @@ A backend was developed using the Spring Boot framework and packaged in a Docker
 * Docker version 24.0.5
 * Docker comose
 ## Install without docker
-* git clone https://github.com/jpg2013/SelectionProcess.git
+* git clone https://github.com/jdlpg/SelectionProcessTest.git
 * cd SelectionProcessTest/
 * mvn clean package spring-boot:run
 * open your browser and go to https://localhost:8080/api/v1
 ## Install with docker
-* git clone https://github.com/jpg2013/SelectionProcess.git
+* git clone https://github.com/jdlpg/SelectionProcessTest.git
 * cd SelectionProcessTest/
 * mvn clean package install
 * docker-compose up -d
