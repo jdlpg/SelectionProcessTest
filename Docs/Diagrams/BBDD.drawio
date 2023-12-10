@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-12-10T11:50:05.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="6vKdcTnLmOcWigO3WQD6" version="22.1.7" type="device">
+  <diagram name="Página-1" id="zHUS8T98wytE7VXFbv7T">
+    <mxGraphModel dx="502" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-88" value="&amp;nbsp;PRODUCT_RATE" style="swimlane;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-60" width="201" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-89" value="BRAND_ID" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LNzFgeBaJYBjP-Y_PhbM-88">
+          <mxGeometry x="50" y="28" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-101" value="PRICE_LIST" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LNzFgeBaJYBjP-Y_PhbM-88">
+          <mxGeometry x="50" y="65" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-102" value="PK" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LNzFgeBaJYBjP-Y_PhbM-88">
+          <mxGeometry x="10" y="28" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-108" value="PRICE" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LNzFgeBaJYBjP-Y_PhbM-88">
+          <mxGeometry x="51" y="138" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-100" value="PRODUCT_ID" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-13" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-103" value="PK" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-14" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-104" value="PK" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="171" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-105" value="START_DATE" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="23" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-106" value="PRIORITY" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-107" value="END_DATE" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="42" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzFgeBaJYBjP-Y_PhbM-109" value="CURR" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="211" y="97" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
