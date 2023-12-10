@@ -16,7 +16,7 @@ A backend was developed using the Spring Boot framework and packaged in a Docker
 * Java version: 17.0.9
 * Apache Maven 3.6.3
 * Docker version 24.0.5
-* Docker comose
+* Docker compose
 ## Install without docker
 * git clone https://github.com/jdlpg/SelectionProcessTest.git
 * cd SelectionProcessTest/
