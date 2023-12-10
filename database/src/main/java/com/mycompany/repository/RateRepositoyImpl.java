@@ -21,10 +21,12 @@ public class RateRepositoyImpl implements RateRepository {
     RateJpaRepository repository;
     @Autowired
     RateEntDomMapper rateEntDomMapper;
+    @Autowired
+    RateSpecification rateSpecification;
 
     @Override
     public List<RateDomain> getProductRate(RateCriteria rateCriteria) {
-        Specification<RateEntity> spec = RateSpecification.conFiltros(rateCriteria);
+        Specification<RateEntity> spec = rateSpecification.conFiltros(rateCriteria);
         Sort sort = Sort.by(Sort.Order.desc(SORT_FIELD));
         return rateEntDomMapper.toDomainList(repository.findAll(spec, sort));
     }

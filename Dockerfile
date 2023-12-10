@@ -11,7 +11,7 @@ WORKDIR /usr/src/app/
 #
 #   Copy data
 #
-COPY boot/target/product-rate-1.0.0-SNAPSHOT.jar /usr/src/app/app.jar
+COPY boot/target/product-rate-1.0.0.jar /usr/src/app/app.jar
 #
 #   opening ports
 #
