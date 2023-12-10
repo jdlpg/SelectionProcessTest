@@ -19,6 +19,8 @@
         <java.version>17</java.version>
         <spring-boot.version>3.2.0</spring-boot.version>
         <springfox.version>3.0.0</springfox.version>
+        <version.maven-surefire-plugin>3.1.2</version.maven-surefire-plugin>
+        <version.junit-jupiter-engine>5.8.1</version.junit-jupiter-engine>
     </properties>
     <dependencies>
         <dependency>
@@ -74,9 +76,7 @@
                 </configuration>
             </plugin>
         </plugins>
-
     </build>
-
     <modules>
         <module>application</module>
         <module>boot</module>

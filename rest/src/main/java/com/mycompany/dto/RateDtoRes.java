@@ -13,7 +13,7 @@ public class RateDtoRes {
 
     int brandId;
 
-    String priceList;
+    int priceList;
 
     private LocalDateTime applicationDate;
 
